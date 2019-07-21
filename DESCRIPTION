@@ -1,7 +1,7 @@
-Package: RandomClusters
+Package: RandomClustering
 Type: Package
 Title: Random clusters generation on a lattice.
-Version: 0.0.1
+Version: 0.1.0
 Date: 2019-07-18
 Authors@R: c(person("Francisco M. Bautista", "Developer", role = c("aut", "cre"),email = "mbautistafran@gmail.com"),
                    person("Angel", "Developer", role = c("res","cpp","ctb")),
