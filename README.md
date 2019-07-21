@@ -1,4 +1,4 @@
-# RandomClusters
+# RandomClustering
 
 We generate a binary lattice of size <a href="https://www.codecogs.com/eqnedit.php?latex=n\times&space;n" target="_blank"><img src="https://latex.codecogs.com/gif.latex?n\times&space;n" title="n\times n" /></a>, this will gerate clusters of diferent sizes in the lattice.
 
