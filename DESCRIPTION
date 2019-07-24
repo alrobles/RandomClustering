@@ -3,7 +3,7 @@ Type: Package
 Title: Random clusters generation on a lattice.
 Version: 0.1.0
 Date: 2019-07-18
-Authors: c(person("Francisco M. Bautista", "Developer", role = c("aut", "cre"),email = "mbautistafran@gmail.com"),
+Authors@R: c(person("Francisco M. Bautista", "Developer", role = c("aut", "cre"),email = "mbautistafran@gmail.com"),
                    person("Angel", "Developer", role = c("res","cpp","ctb")),
      	             email = "a.l.robles.fernandez@gmail.com"))
 Author: Francisco M. Bautista, with contributions from Angel R. Fernández.

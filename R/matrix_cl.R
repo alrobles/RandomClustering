@@ -4,7 +4,7 @@
 #' @param prob_vector
 #'
 #' @return
-#' @export
+#' @export matrix_cl
 #'
 #' @examples
 matrix_cl <- function(prob, ncell) {
