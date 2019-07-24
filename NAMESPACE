@@ -1,1 +1,3 @@
 exportPattern("^[[:alpha:]]+")
+useDynLib(RandomClustering)
+importFrom(Rcpp, sourceCpp)

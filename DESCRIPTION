@@ -8,10 +8,11 @@ Authors: c(person("Francisco M. Bautista", "Developer", role = c("aut", "cre"),e
      	             email = "a.l.robles.fernandez@gmail.com"))
 Author: Francisco M. Bautista, with contributions from Angel R. Fernández.
 Maintainer: Francisco M. Bautista <mbautistafran@gmail.com>
+LinkingTo: Rcpp
+Imports: Rcpp
 URL:https://github.com/FrankBaut/RandomClusters
 BugReports: https://github.com/FrankBaut/RandomClusters/issues
-Description: This package draw random clusters on a lattice, remove a random cell from the biggets
-cluster and the paste a cell in the smallest neigbohr choosing one of his nearest randomly.
+Description: This package draw random clusters on a lattice, remove a random cell from the biggets cluster and the paste a cell in the smallest neigbohr choosing one of his nearest randomly.
 License: MIT
 Encoding: UTF-8
 LazyData: true

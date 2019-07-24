@@ -9,7 +9,7 @@
 #' @examples
 label_binary_lattice <- function(ncell = 1000, prob_vector) {
     prob_matrix <- prob_vector %>%
-      purrr::map(tango::matrix_cl, ncell)
+      purrr::map(RandomClustering::matrix_cl, ncell)
     return(prob_matrix)
 }
 
