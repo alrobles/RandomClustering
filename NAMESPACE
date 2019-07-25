@@ -1,8 +1,4 @@
 exportPattern("^[[:alpha:]]+")
-<<<<<<< HEAD
 useDynLib(RandomClustering)
 importFrom(Rcpp, sourceCpp)
-=======
-
 export(matrix_cl)
->>>>>>> 683122258085aad9c9064332efbd4d935dc5f425
