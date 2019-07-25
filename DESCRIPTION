@@ -1,6 +1,6 @@
 Package: RandomClustering
 Type: Package
-Title: Random clusters generation on a lattice.
+Title: Random clusters generation on a lattice
 Version: 0.1.0
 Date: 2019-07-18
 Authors: c(person("Francisco M. Bautista", "Developer", role = c("aut", "cre"),email = "mbautistafran@gmail.com"),
@@ -9,10 +9,10 @@ Authors: c(person("Francisco M. Bautista", "Developer", role = c("aut", "cre"),e
 Author: Francisco M. Bautista, with contributions from Angel R. Fernández.
 Maintainer: Francisco M. Bautista <mbautistafran@gmail.com>
 LinkingTo: Rcpp
-Imports: Rcpp, magrittr
+Imports: Rcpp, magrittr, purrr, stats, utils
 URL:https://github.com/FrankBaut/RandomClusters
 BugReports: https://github.com/FrankBaut/RandomClusters/issues
 Description: This package draw random clusters on a lattice, remove a random cell from the biggets cluster and the paste a cell in the smallest neigbohr choosing one of his nearest randomly.
-License: MIT
+License:  MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
