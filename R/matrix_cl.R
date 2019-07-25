@@ -4,7 +4,6 @@
 #' @param prob_vector
 #'
 #' @return
-<<<<<<< HEAD
 #' @export
 #'
 #' @examples
