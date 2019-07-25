@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Package: RandomClustering
 Type: Package
 Title: Random clusters generation on a lattice.
@@ -17,7 +16,6 @@ Description: This package draw random clusters on a lattice, remove a random cel
 License: MIT
 Encoding: UTF-8
 LazyData: true
-=======
 Package: RandomClustering
 Type: Package
 Title: Random clusters generation on a lattice.
@@ -35,4 +33,3 @@ cluster and the paste a cell in the smallest neigbohr choosing one of his neares
 License: MIT
 Encoding: UTF-8
 LazyData: true
->>>>>>> 683122258085aad9c9064332efbd4d935dc5f425
